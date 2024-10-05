@@ -1,0 +1,10 @@
+#clock {
+  text-align: center;
+  font-size: 20px;
+}
+.btn-h {
+  border-right: 5px solid rgb(153, 0, 255);
+  border-top-right-radius: 1rem;
+}
+.btn-c {
+}
